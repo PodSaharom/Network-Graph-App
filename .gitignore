@@ -1,0 +1,99 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/
+
+# Nuxt.js build / generated files
+.nuxt/
+dist/
+
+# vue.js build / generated files
+/dist
+
+# Storybook
+.out/
+storybook-static/
+
+# Miscellaneous
+!.gitignore
+*.lock
+*.tmp
+*.temp
+*.pid
+*.seed
+*.cover
+*.test
+*.mocha
+*.karma
+*.tsbuildinfo
+build/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# SvelteKit build / generated files
+.svelte-kit
+
+# Rollup build / generated files
+dist/
+*.tsbuildinfo
+
+# TSLint cache
+tslint.cache
+.eslintcache
+
+# Vercel build output
+.vercel/
+
+# netlify build output
+.netlify/
+
+# Temporary files
+temp
+tmp
+*.temp
+*.tmp
